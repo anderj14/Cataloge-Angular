@@ -1,10 +1,14 @@
 # RealEstate
 
+this project is not completed. soon it will be ready.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+Run 'npm run db' for the fake api. Im using json-server.
 
 ## Code scaffolding
 
